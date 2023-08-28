@@ -328,8 +328,8 @@ width: calc((100% - 48px) / 4);
   justify-content: center;
   text-align: center;
   gap: 8px;
-  margin-bottom: 32px;
-  margin-top: 32px;
+  padding-bottom: 32px;
+  padding-top: 32px;
 }
 
 /* Our Portfolio */
