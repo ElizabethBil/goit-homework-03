@@ -310,12 +310,16 @@ width: calc((100% - 48px) / 4);
 
 .our-team-section-title {
   text-align: center;
-  margin-bottom: 8px;
+  margin-bottom: 72px;
 }
 
 .our-team-list {
   display: flex;
   gap: 24px;
+}
+
+.our-team-text-title {
+  margin-bottom: 8px;
 }
 
 .our-team-names {
@@ -338,12 +342,16 @@ width: calc((100% - 48px) / 4);
 
 .our-portfolio-container {
   align-content: center;
-  border-top: none;
+ 
 }
 
 .our-portfolio-title {
   text-align: center;
   margin-bottom: 72px;
+}
+
+.our-portfolio-text-title {
+  margin-bottom: 8px;
 }
 
 .our-portfolio-list {
@@ -367,6 +375,7 @@ width: calc((100% - 48px) / 4);
 .our-portfolio-description {
   padding: 32px 16px;
   border: 1px solid var(--cornflower, #e7e9fc);
+   border-top: none;
 }
 
 /* FOOTER */
